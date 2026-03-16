@@ -90,10 +90,10 @@ aakash = {
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎵 **EchoDeck** | Collaborative music streaming SaaS — shared queues, sync playback, role-based access control, full auth system | Next.js, PostgreSQL, Prisma ORM, Tailwind CSS, PHP |
+| 🎵 **EchoDeck** | Collaborative music streaming SaaS: shared queues, sync playback, role-based access control, full auth system | Next.js, PostgreSQL, Prisma ORM, Tailwind CSS, PHP |
 | 🧘 **ZenKraft** | AI-powered yoga assistant with real-time pose correction, ML-driven sequence progression and user tracking | Python, React.js, Node.js, MongoDB, OpenCV, MediaPipe |
-| ⚡ **Energy Demand Forecasting** | Predictive models for electricity demand — compared RF, XGBoost & ARIMA, evaluated on RMSE, MAE, MAPE | Python, Scikit-learn, XGBoost, Pandas |
-| 🏠 **Personal Homelab** | Distributed homelab on repurposed hardware — reverse proxy, NAS, password manager, media server, Tailscale mesh | Proxmox, Docker, Linux, Tailscale |
+| ⚡ **Energy Demand Forecasting** | Predictive models for electricity demand, compared RF, XGBoost & ARIMA, evaluated on RMSE, MAE, MAPE | Python, Scikit-learn, XGBoost, Pandas |
+| 🏠 **Personal Homelab** | Distributed homelab on repurposed hardware: reverse proxy, NAS, password manager, media server, Tailscale mesh | Proxmox, Docker, Linux, Tailscale |
 
 ---
 
@@ -118,13 +118,11 @@ aakash = {
   <img src="https://raw.githubusercontent.com/avianage/avianage/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> 💡 To enable the snake: add the [GitHub Actions snake workflow](https://github.com/Platane/snk) to your profile repo.
-
 ---
 
 ## 🎵 Beyond The Terminal
 
-When I'm not pushing commits or tuning hyperparameters, I'm at the piano or guitar — recreating songs by ear, performing, and occasionally competing. Music and ML aren't that different. Both are about finding patterns in noise.
+When I'm not pushing commits or tuning hyperparameters, I'm at the piano or guitar, recreating songs by ear, performing, and occasionally competing. Music and ML aren't that different. Both are about finding patterns in noise.
 
 ---
 
