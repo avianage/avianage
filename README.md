@@ -76,7 +76,12 @@ aakash = {
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%">
+      <h3>💰 Senary Capital</h3>
+      <p>Personal finance platform covering banking, investments, insurance, and expense tracking — built from the ground up with a clean design-first approach.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Design-yellow?style=flat-square&labelColor=0d1117"/>
+    </td>
+    <td width="50%">
       <h3>🏠 Homelab Infrastructure</h3>
       <p>Running Proxmox on a repurposed Lenovo Yoga. Hosts NAS, personal apps, and project deployments. My own little on-prem cloud.</p>
       <img src="https://img.shields.io/badge/Status-Always%20Running-brightgreen?style=flat-square&labelColor=0d1117"/>
@@ -90,6 +95,7 @@ aakash = {
 
 | Project | Description | Stack |
 |---|---|---|
+| 💰 **Senary Capital** | Personal finance app: banking, investments, insurance & expense tracking with a unified dashboard | Next.js, PostgreSQL, Prisma ORM, Tailwind CSS |
 | 🎵 **EchoDeck** | Collaborative music streaming SaaS: shared queues, sync playback, role-based access control, full auth system | Next.js, PostgreSQL, Prisma ORM, Tailwind CSS, PHP |
 | 🧘 **ZenKraft** | AI-powered yoga assistant with real-time pose correction, ML-driven sequence progression and user tracking | Python, React.js, Node.js, MongoDB, OpenCV, MediaPipe |
 | ⚡ **Energy Demand Forecasting** | Predictive models for electricity demand, compared RF, XGBoost & ARIMA, evaluated on RMSE, MAE, MAPE | Python, Scikit-learn, XGBoost, Pandas |
@@ -106,7 +112,7 @@ aakash = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avianage&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=avianage&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
@@ -130,7 +136,7 @@ When I'm not pushing commits or tuning hyperparameters, I'm at the piano or guit
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=globe&logoColor=58A6FF)](https://avianage.in)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=firefox&logoColor=58A6FF)](https://avianage.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/aakash-joshi-cs)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aakash.joshi.cs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avianage)
