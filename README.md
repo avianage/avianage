@@ -20,7 +20,7 @@
 ```python
 aakash = {
     "location"       : "Mumbai, India 🇮🇳",
-    "currently"      : "Interning @ Averlon Enterprises",
+    "currently"      : "Interning @ Averlon Enterprise Solutions",
     "prev"           : "Tata Consulting Engineers Ltd.",
     "focus"          : ["Machine Learning", "Fullstack Dev", "DevOps", "Cloud"],
     "homelab"        : "Proxmox on a Lenovo Yoga — because why rent servers?",
