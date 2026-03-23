@@ -21,7 +21,7 @@
 aakash = {
     "location"       : "Mumbai, India 🇮🇳",
     "currently"      : "Interning @ Averlon Enterprise Solutions",
-    "prev"           : "Tata Consulting Engineers Ltd.",
+    "prev"           : ["Tata Consulting Engineers Ltd.", "TechEntrepreneurs"],
     "focus"          : ["Machine Learning", "Fullstack Dev", "DevOps", "Cloud"],
     "homelab"        : "Proxmox on a Lenovo Yoga — because why rent servers?",
     "music"          : ["Piano 🎹", "Guitar 🎸", "Ear training nerd"],
