@@ -19,9 +19,9 @@
 
 ```python
 aakash = {
-    "location"       : "Mumbai, India 🇮🇳",
-    "currently"      : "Interning @ Averlon Enterprise Solutions",
-    "prev"           : ["Tata Consulting Engineers Ltd.", "TechEntrepreneurs"],
+    "location"       : "Bangalore, India 🇮🇳",
+    "currently"      : "Associate Systems Engineer @ IBM",
+    "prev"           : ["Averlon Enterprise Solutions", "Tata Consulting Engineers Ltd."],
     "focus"          : ["Machine Learning", "Fullstack Dev", "DevOps", "Cloud"],
     "homelab"        : "Proxmox on a Lenovo Yoga — because why rent servers?",
     "music"          : ["Piano 🎹", "Guitar 🎸", "Ear training nerd"],
