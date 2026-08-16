@@ -19,14 +19,14 @@
 
 ```python
 aakash = {
-    "location"       : "Bangalore, India 🇮🇳",
+    "location"       : "Pune, India 🇮🇳",
     "currently"      : "Associate Systems Engineer @ IBM",
     "prev"           : ["Averlon Enterprise Solutions", "Tata Consulting Engineers Ltd."],
     "focus"          : ["Machine Learning", "Fullstack Dev", "DevOps", "Cloud"],
     "homelab"        : "Proxmox on a Lenovo Yoga — because why rent servers?",
     "music"          : ["Piano 🎹", "Guitar 🎸", "Ear training nerd"],
     "code"           : ["Python 🐍", "JavaScript ⚡", "SQL", "C++"],
-    "speaks"         : ["English", "Hindi", "Marathi"],
+    "speaks"         : ["English", "Marathi", "Hindi"],
     "fun_fact"       : "I once compared 3 forecasting models to predict energy demand. Random Forest won. It always wins.",
 }
 ```
